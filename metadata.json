@@ -1,0 +1,5 @@
+{
+  "name": "ResumeBoost AI",
+  "description": "A hackathon-ready ATS resume analyzer that provides scoring, skill gap analysis, and improvement tasks using Gemini AI.",
+  "requestFramePermissions": []
+}
